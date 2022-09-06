@@ -58,3 +58,6 @@ Now let's imagine that another programmer has received your site's link and is t
   </body>
 </html>
 ```
+
+Result:
+![зображення](https://JSLearn.teleweb.repl.co/photos/1662483761081.gif)
