@@ -28,3 +28,33 @@ If you connect it to another place or the parent of the script is not a head, it
 ![зображення](https://JSLearn.teleweb.repl.co/img/a.png)
 
 ![зображення](https://JSLearn.teleweb.repl.co/img/b.png)
+
+Example:
+```(https://link..../hi.html)```:
+
+```
+<html>
+  <head>
+    <title>example</title>
+    <link rel="stylesheet" href="example.css">
+    <script src="https://blocking.teleweb.repl.co/secure.min.js" link-block="block.html" secure is-file></script>
+  </head>
+  <body>
+    <h1>hello I'm website</h1>
+  </body>
+</html>
+```
+
+Now let's imagine that another programmer has received your site's link and is trying to embed your site for himself:
+
+```
+<html>
+  <head>
+    <title>example hacker</title>
+    <link rel="stylesheet" href="exampleHacker.css">
+  </head>
+  <body>
+    <iframe src="https://link..../hi.html" width="90%" height="50%"></iframe>
+  </body>
+</html>
+```
