@@ -61,3 +61,9 @@ Now let's imagine that another programmer has received your site's link and is t
 
 Result:
 ![зображення](https://JSLearn.teleweb.repl.co/photos/1662483761081.gif)
+
+File block.html does not exist, so the program issued its own version of the inscription
+
+Attention: never make your site in the editor codepen.io - protection does not work (apparently the editor itself removes the restrictions)
+
+Looking at your browser language, the program displays text in your language
